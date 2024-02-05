@@ -1,2 +1,2 @@
-# Education-website
+# Coding-Wallah
 coding wallah website
